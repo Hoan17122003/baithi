@@ -1,0 +1,139 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text{
+    font-size: 20px;
+}
+.header__img{
+    height: 300px;
+    width: 100%;
+}
+.header__size{
+    width: 200px;
+    height: 200px;
+}
+.header__size{
+    position: relative;
+    left: 30%;
+    transform: translateX(-30%);
+}
+.header__text{
+    position: relative;
+    left: 40%;
+    top: 47px;
+    font-size: 20px;
+}
+.in4__personal__top__content{
+    font-size: 20px;
+}
+.in4__personal__top__content{
+    width: 300px;
+}
+.in4__personal__bottom{
+    position: relative;
+    left: 50%;
+    bottom: 200px;
+}
+.in4__personal__bottom__content{
+    display: flex;
+}
+.in4__personal__bottom__content__mahocphan,
+.in4__personal__bottom__content > div + div{
+    margin-right: 30px;
+}
+.diemdanhgiahocphanhe10,
+.diemdanhgiahocphanhe4{
+    display: inline-block;
+}
+.diemdanhgiahocphanhe10{
+    margin-right: 60px;
+    text-align: center;
+}
+.project{
+    position: absolute;
+    bottom: -60px;
+    left: 260px
+}
+.project > a{
+    text-decoration: none;
+    color: red;
+}
+.project > a {
+    margin-right: 10px;
+}
+/* image */
+.thuvien{
+    margin: 0 auto;
+}
+.tong{
+    width: 1200px;
+    height: 400px;
+    display: flex;
+    margin: 0 auto;
+}
+.tong1{
+    width: 300px;
+    height: 400px;
+
+}
+.tong2{
+    width: 600px;
+    height: 400px;
+
+    display: grid;
+}
+.tong2-1{
+    width: 600px;
+    height: 133px;
+
+}
+.tong2-2-1{
+    width: 600px;
+    height: 133px;
+
+    display: flex;
+}
+.tong2-2-2{
+    width: 600px;
+    height: 133px;
+
+    display: flex;
+}
+.tong2-2-1-1{
+    width: 300px;
+    height: 133px;
+
+}
+.tong2-2-1-2{
+    width: 300px;
+    height: 133px;
+
+}
+.tong2-2-2-1{
+    width: 300px;
+    height: 133px;
+
+}
+.tong2-2-2-2{
+    width: 300px;
+    height: 133px;
+
+}
+.tong3{
+    width: 300px;
+    height: 400px;
+
+    display: grid;
+}
+.tong3-1{
+    width: 300px;
+    height: 133px;
+
+}
+.tong3-2{
+    width: 300px;
+    height: 266px;
+}
